@@ -22,9 +22,7 @@
 
 * Currently, Limbic AI provides Clinical AI database for Mental Healthcare Providers.
 
-In a acrticle in the Wall Street Journal, Mona Stylianou, the pricipal clinical lead at Every Mental Health, a nonprofit that provides care to patients through the NHS, says the tool has improved patient access to care by offering a 24/7 self-referral process and a personalized wat to assess patients' needs. They also provide Limbic Care; a Generative AI care companion and Limbic Access; a clinical assessment assistant for patients.> This is a block quote in Markdown.
-
-> It can span multiple lines.
+> This is a block quote in Markdown. In a acrticle in the Wall Street Journal, Mona Stylianou, the pricipal clinical lead at Every Mental Health, a nonprofit that provides care to patients through the NHS, says the tool has improved patient access to care by offering a 24/7 self-referral process and a personalized wat to assess patients' needs. They also provide Limbic Care; a Generative AI care companion and Limbic Access; a clinical assessment assistant for patients.
  The Clinical AI for Mental Healthcare services that they offer services over 280,000 patients and is currently used by over 40% of NHS Mental Health Clinics. Limbic primarily focuses on AI-enhanced assessments diagnoses, administration with health record integration, risk identification, and databased integrations. By executing these primary focuses, they will have the ability to reach more of the mental health community.
 
 ## Landscape
@@ -59,7 +57,7 @@ In a acrticle in the Wall Street Journal, Mona Stylianou, the pricipal clinical 
 
 * Overview and Origin: (<https://limbic.ai/about>) and (<https://sifted.eu/articles/limbic-series-a-14m-ai-chatbot-news>)
 
-* Business Activities: (<https://www.alliedmarketresearch.com/mental-health-market-A11770>), (<https://limbic.ai/>), and (https://www.wsj.com/health/wellness/ai-chatbots-mental-health-5184eca2)
+* Business Activities: (<https://www.alliedmarketresearch.com/mental-health-market-A11770>), (<https://limbic.ai/>), and (<https://www.wsj.com/health/wellness/ai-chatbots-mental-health-5184eca2>)
 
 * Landscape: (<https://limbic.ai/research/improved-recovery>), (<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10982476/>), and (<https://woebothealth.com/solution/>)
 
