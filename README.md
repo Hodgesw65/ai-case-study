@@ -20,7 +20,12 @@
 
 * Limbic AI has set out and targeted the mental health crisis because it’s a global issue and is making it their mission to expand access to mental health care. This is a huge advantage because Limbic AI has only one competitor outside of the United Kingdom that has a similar AI Chat system located in the United States. The majority of companies within this industry focus on providing AI-Enabled Tools for collecting information to increase productivity and efficiency for multiple industries versus specifically focusing on one industry like Limbic AI (UK) and Woebot Health (US).
 
-* Currently, Limbic AI provides Clinical AI database for Mental Healthcare Providers. They also provide Limbic Care; a Generative AI care companion and Limbic Access; a clinical assessment assistant for patients. The Clinical AI for Mental Healthcare services that they offer services over 280,000 patients and is currently used by over 40% of NHS Mental Health Clinics. Limbic primarily focuses on AI-enhanced assessments diagnoses, administration with health record integration, risk identification, and databased integrations. By executing these primary focuses, they will have the ability to reach more of the mental health community.
+* Currently, Limbic AI provides Clinical AI database for Mental Healthcare Providers.
+
+In a acrticle in the Wall Street Journal, Mona Stylianou, the pricipal clinical lead at Every Mental Health, a nonprofit that provides care to patients through the NHS, says the tool has improved patient access to care by offering a 24/7 self-referral process and a personalized wat to assess patients' needs. They also provide Limbic Care; a Generative AI care companion and Limbic Access; a clinical assessment assistant for patients.> This is a block quote in Markdown.
+
+> It can span multiple lines.
+ The Clinical AI for Mental Healthcare services that they offer services over 280,000 patients and is currently used by over 40% of NHS Mental Health Clinics. Limbic primarily focuses on AI-enhanced assessments diagnoses, administration with health record integration, risk identification, and databased integrations. By executing these primary focuses, they will have the ability to reach more of the mental health community.
 
 ## Landscape
 
@@ -50,14 +55,12 @@
 
 * Camera visual and full audio capability allows the patient the ability to have a more personal interaction with the AI virtual assistant human replica. It also provides Limbic AI an opportunity to then study other ways to provide solutions as technology advances enabling the AI virtual assistant human replica to increase its efficiency leading to a higher success rate in referrals made to mental health patients taking the medical assessment.
 
+## References
 
+* Overview and Origin: (<https://limbic.ai/about>) and (<https://sifted.eu/articles/limbic-series-a-14m-ai-chatbot-news>)
 
-## References:
+* Business Activities: (<https://www.alliedmarketresearch.com/mental-health-market-A11770>), (<https://limbic.ai/>), and (https://www.wsj.com/health/wellness/ai-chatbots-mental-health-5184eca2)
 
-* Overview and Origin: (https://limbic.ai/about) and (https://sifted.eu/articles/limbic-series-a-14m-ai-chatbot-news)
+* Landscape: (<https://limbic.ai/research/improved-recovery>), (<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10982476/>), and (<https://woebothealth.com/solution/>)
 
-* Business Activities: (https://www.alliedmarketresearch.com/mental-health-market-A11770) and (https://limbic.ai/)
-
-* Landscape: (https://limbic.ai/research/improved-recovery), (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10982476/), and (https://woebothealth.com/solution/)
-
-* Results: (https://www.pcmis.com/news/article/limbic-ai-ukca/), (https://limbic.ai/), and (https://www.worlddata.info/country-comparison.php?country1=GBR&country2=USA)
+* Results: (<https://www.pcmis.com/news/article/limbic-ai-ukca/>), (<https://limbic.ai/>), and (<https://www.worlddata.info/country-comparison.php?country1=GBR&country2=USA>)
