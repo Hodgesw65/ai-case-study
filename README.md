@@ -20,8 +20,8 @@
 
 * Limbic AI has set out and targeted the mental health crisis because it’s a global issue and is making it their mission to expand access to mental health care. This is a huge advantage because Limbic AI has only one competitor outside of the United Kingdom that has a similar AI Chat system located in the United States. The majority of companies within this industry focus on providing AI-Enabled Tools for collecting information to increase productivity and efficiency for multiple industries versus specifically focusing on one industry like Limbic AI (UK) and Woebot Health (US).
 
- > This is a block quote in Markdown.In a acrticle in the Wall Street Journal, Mona Stylianou, the pricipal clinical lead at Every Mental Health, a nonprofit that provides care to patients through the NHS, says the tool has improved patient access to care by offering a 24/7 self-referral process and a personalized wat to assess patients' needs. They also provide Limbic Care; a Generative AI care companion and Limbic Access; a clinical assessment assistant for patients.
-> It can span multiple lines.
+ >In a acrticle in the Wall Street Journal, Mona Stylianou, the pricipal clinical lead at Every Mental Health, a nonprofit that provides care to patients through the NHS, says the tool has improved patient access to care by offering a 24/7 self-referral process and a personalized wat to assess patients' needs. They also provide Limbic Care; a Generative AI care companion and Limbic Access; a clinical assessment assistant for patients.
+>
 
 ## Landscape
 
